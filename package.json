@@ -1,0 +1,25 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "Harvard CS50 Web Programming course Project0 assignment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/me50/digitalgnome/tree/web50/projects/2019/x/0"
+  },
+  "keywords": [
+    "CS50",
+    "Web",
+    "Project0"
+  ],
+  "author": "Tariq Khan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
