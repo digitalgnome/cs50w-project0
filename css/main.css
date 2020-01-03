@@ -10043,6 +10043,16 @@ footer #copy {
 footer #year {
   font-size: 150%;
 }
+footer #repo a {
+  color: #fff;
+  font-size: 150%;
+  margin-left: 1rem;
+  transition: color 0.5s ease-out;
+}
+footer #repo a:hover {
+  color: #00FFFF;
+  text-decoration: none;
+}
 
 section.cs50-logo {
   border: none;

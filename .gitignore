@@ -13,5 +13,8 @@ node_modules
 # Ignore SASS config files
 .sass-cache
 
+# Ignore CSS map
+main.css.map
+
 # Ignore package-lock.json
 package-lock.json

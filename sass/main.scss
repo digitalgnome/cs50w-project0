@@ -203,6 +203,18 @@ footer {
   #year {
     font-size: 150%;
   }
+
+  #repo a {
+    color: #fff;
+    font-size: 150%;
+    margin-left: 1rem;
+    transition: color 0.5s ease-out;
+  }
+
+  #repo a:hover {
+    color: #00FFFF;
+    text-decoration: none;
+  }
 }
 
 // about page styles
