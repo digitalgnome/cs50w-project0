@@ -1,5 +1,4 @@
-# Tariq Khan's CS50W Project 0
-
+<h1><a href="https://digitalgnome.github.io/cs50w-project0/" targe="_blank">Tariq Khan's CS50W Project0<a/></h1>
 ### Web Programming with Python and JavaScript
 
 This site contains four html pages that are linked through a bootstrap navigation component. The home or index.html page serves a general landing page listing the requirements for the project.
