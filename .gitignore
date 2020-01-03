@@ -18,3 +18,6 @@ main.css.map
 
 # Ignore package-lock.json
 package-lock.json
+
+# Ignore screencast movie folder
+project0-screencast
